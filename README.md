@@ -9,9 +9,9 @@ MAKE SURE TO USE ONE WITH SDK 16 AND ABOVE!
 //I used Pixel 2 API 30 however it gave me a weird glitch where it wouldnt
 //update the map when I placed it on my phone it worked fine
 ONCE YOU HAVE CHOSEN THE PHONE JUST CLICK RUN AND IT SHOULD GO! 
-I WILL BE PLACING IT ON MY GITHUB AS WELL WHICH YOU CAN PULL FROM MY GITHUB
+YOU CAN PULL FROM MY GITHUB
 USING THE VCS
-https://github.com/edwinoreo8
+
 
 It will be under project "LocationTracker"
 
